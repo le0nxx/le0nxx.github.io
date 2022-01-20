@@ -1,9 +1,9 @@
-title : Wall-E - Jekyll
-description: 'A Modern Jekyll Theme'
+title : raviNg
+description: 'The Cabin in the Woods'
 
 markdown: kramdown
 highlighter: rouge
-logo: false
+logo: ture
 paginate: 15
 baseurl: /
 plugins: [jekyll-gist]
